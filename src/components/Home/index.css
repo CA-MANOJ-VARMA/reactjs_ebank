@@ -1,0 +1,32 @@
+.css-bg-Home-component {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.css-navbar-component {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: black;
+  margin: 0;
+}
+
+.css-digital-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.css-logout-button-itself {
+  background-color: blueviolet;
+  border-width: 0;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 15px;
+}
